@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Mostrar el mensaje específico
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = ' 🙈 ¡Te quiero Mucho 💖🙈 ! Paso por ti en la tarde';
+    document.getElementById('messageContainer').innerHTML = ' 🙈 ¡Te quiero mucho ebelyn 💖🙈! Paso por ti en la tarde';
     audio.play();
 
     // Mostrar otro gif después de 3 segundos
